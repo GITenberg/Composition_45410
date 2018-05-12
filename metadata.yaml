@@ -1,0 +1,31 @@
+_repo: Composition_45410
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dow, Arthur W. (Arthur Wesley)
+    aliases:
+    - Dow, Arthur Wesley
+    - Dow, A. W. (Arthur Wesley)
+    birthdate: 1857
+    deathdate: 1922
+    gutenberg_agent_id: '35402'
+    url: http://www.gutenberg.org/2009/agents/35402
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Wesley_Dow
+description: ''
+gutenberg_issued: '2014-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45410'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcsh 'Art -- Study and teaching'
+- !lcsh 'Composition (Art)'
+title: Composition
+url: http://www.gutenberg.org/ebooks/45410
